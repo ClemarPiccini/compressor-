@@ -1,0 +1,7 @@
+Algoritimo utilizando o modulo zlib para comprimir dados.
+
+*PARA UTILIZAR O MESMO RODAR EM UM TERMINAL: NPM INSTALL
+
+*NODE RECEIVE.JS // PARA SE RECEBER DADOS
+
+*NODE SEND.JS // PARA ENVIAR OS DADOS 
